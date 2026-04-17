@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://automaworks.ai/sitemap.xml
